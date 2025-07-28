@@ -23,3 +23,6 @@ Haar Cascades (pre-trained XML files)
 Detected regions are marked with rectangles over the webcam feed.
 
 ![WhatsApp Image 2025-07-29 at 00 00 04_94ce72eb](https://github.com/user-attachments/assets/4e966da9-37fb-48c1-87bd-ba87964bba11)
+<img width="1920" height="1080" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/31df21e2-e3bc-4bf2-9e0b-a0e41524d9f5" />
+
+
